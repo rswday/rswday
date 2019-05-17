@@ -14,6 +14,7 @@ body, html {height: 100%;}
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
+
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
 a:hover {color: #0068FF}
 p {font-weight: 200; font-size: 20px;}
@@ -43,6 +44,9 @@ hr {border-bottom: 3px solid #0068FF;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
+
+.inline-list {list-style: none; margin: 0; padding: 0;}
+.inline-list li {display: inline-block;}
 
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #0068FF;}

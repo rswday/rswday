@@ -14,7 +14,7 @@ body, html {height: 100%;}
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
-.social {margin-left:-60px;}
+.social {}
 
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
@@ -48,7 +48,7 @@ hr {border-bottom: 3px solid #0068FF;}
 .meta a:hover {color: #333;}
 
 .inline-list {list-style: none;}
-.inline-list li {display: inline-block;}
+.inline-list li {display: inline-block;padding-right:10px;}
 .inline-list a {border:none; color:#0068FF}
 
 footer .inline-list li {margin-right: 40px;}

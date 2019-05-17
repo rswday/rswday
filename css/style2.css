@@ -23,7 +23,7 @@ p {font-weight: 200; font-size: 20px;}
 
 .container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
-article img {padding-right:20px;}
+article img {margin-right:20px;}
 
 
 /* TODO find better cross-platform characters */

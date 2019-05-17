@@ -14,8 +14,6 @@ body, html {height: 100%;}
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
- inline-block; position: absolute;margin-bottom: 60px; top: 60px; left: 90px;
-
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
 a:hover {color: #0068FF}
 p {font-weight: 200; font-size: 20px;}

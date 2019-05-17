@@ -14,8 +14,7 @@ body, html {height: 100%;}
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
-.social {list-style: none;}
-.social li {display: inline-block;margin-right:10px;}
+.social {padding:60px;}
 .social a {border:none; color:#0068FF}
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}

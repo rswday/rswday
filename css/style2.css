@@ -47,7 +47,7 @@ hr {border-bottom: 3px solid #0068FF;}
 
 .inline-list {list-style: none; margin: 0; padding-right: 10px;}
 .inline-list li {display: inline-block;}
-.inline-list a {border-bottom:none;}
+.inline-list a {border:none; color:#0068FF}
 
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #0068FF;}
